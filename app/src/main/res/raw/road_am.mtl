@@ -1,0 +1,51 @@
+# Blender MTL File: 'road.blend'
+# Material Count: 5
+
+newmtl Asphalt_Material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.015078 0.015078 0.015078
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\Users\Vaibhav.Jani\RajawaliUserInterface\res\drawable-nodpi\road.jpg
+
+newmtl Curb_Material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.706327 0.706327 0.706327
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\Users\Vaibhav.Jani\RajawaliUserInterface\res\drawable-nodpi\road.jpg
+
+newmtl Shoulder_Material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\Users\Vaibhav.Jani\RajawaliUserInterface\res\drawable-nodpi\road.jpg
+
+newmtl Sign_Material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\Users\Vaibhav.Jani\RajawaliUserInterface\res\drawable-nodpi\sign.jpg
+
+newmtl Warning_Material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.196950 0.196950 0.196950
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
